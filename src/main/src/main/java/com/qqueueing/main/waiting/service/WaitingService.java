@@ -157,17 +157,17 @@ public class WaitingService {
         enterProducer.activate(partitionNo);
     }
 
-    @Async
-    @Scheduled(cron = "0/10 * * * * *") // 10초마다
-    public void checkPartitionsValid() {
-        registrationRepository.findAll()
-                .forEach(p -> {
-                    if (p.getIsActive() && !queues.containsKey(p.getPartitionNo())) {
-                        log.info("invalid partition exist! re-init... partitionNo = {}", p.getPartitionNo());
-                        activate(p);
-                    }
-                });
-    }
+//    @Async
+//    @Scheduled(cron = "0/10 * * * * *") // 10초마다
+//    public void checkPartitionsValid() {
+//        registrationRepository.findAll()
+//                .forEach(p -> {
+//                    if (p.getIsActive() && !queues.containsKey(p.getPartitionNo())) {
+//                        log.info("invalid partition exist! re-init... partitionNo = {}", p.getPartitionNo());
+//                        activate(p);
+//                    }
+//                });
+//    }
 
     public void activate(int partitionNo) {
         Registration registration = registrationRepository.findByPartitionNo(partitionNo);
