@@ -28,7 +28,7 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb://root:example@k10a401.p.ssafy.io:27017/qqueueing?authSource=admin&authMechanism=SCRAM-SHA-1
+      uri: "사용자 url 입력"
 #      uri: mongodb://localhost:27017/qqueueing
       auto-index-creation: true  # 자동 인덱스
 

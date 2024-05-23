@@ -24,9 +24,10 @@ spring:
   datasource:
     hikari:
       driver-class-name: com.mysql.cj.jdbc.Driver
-      jdbc-url: jdbc:mysql://mysqldb:3306/test?serverTimezone=UTC&useUniCode=yes&characterEncoding=UTF-8
-      username: SMY
-      password: 1049139
+      jdbc-url: "사용자 url"
+      username: "사용자 username"
+      password: "사용자 password"
+
   jpa:
     properties:
       hibernate:
