@@ -35,11 +35,11 @@ services:
   mysqldb:
     image: mysql:8.0.36
     environment:
-      MYSQL_DATABASE: test
-      MYSQL_USER: SMY
-      MYSQL_PASSWORD: 1049139
-      MYSQL_ROOT_PASSWORD: root
-    container_name: test-mysqldb
+      MYSQL_DATABASE: "사용자 database 입력"
+      MYSQL_USER: "사용자 user 입력"
+      MYSQL_PASSWORD: "사용자 password 입력"
+      MYSQL_ROOT_PASSWORD: "사용자 root password 입력"
+    container_name: "사용자 container name 입력"
     healthcheck:
       test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost", '-u', 'root', '-p$$MYSQL_ROOT_PASSWORD']
       timeout: 20s
