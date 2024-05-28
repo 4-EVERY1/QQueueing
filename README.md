@@ -63,42 +63,42 @@ cd qqueueing
 
 <b>대기열 애플리케이션을 동작시킵니다.</b>
 
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/2951ddee5f70f133d39de917b11ecee2/%EB%8C%80%EA%B8%B0%EC%97%B4_%EC%B2%AB_%ED%99%94%EB%A9%B4.PNG" width="1000" height="500">
+<img src="./.asset/대기열_첫_화면.PNG" width="1000" height="500">
 <br><br><br><br>
 
 <b>등록하기 버튼을 누르고, 대기열을 적용할 URL, 서비스 명, 대기열 대표 이미지를 등록합니다.</b>
 
-<img src="https://lab.ssafy.com/s10-bigdata-recom-sub2/S10P22A706/uploads/0a5b52e80202ae2bfc99a6b59f11b612/%EB%8C%80%EA%B8%B0%EC%97%B4_%EB%93%B1%EB%A1%9D_%ED%99%94%EB%A9%B4.PNG" width="1000" height="500">
+<img src="./.asset/대기열_등록_화면.PNG" width="1000" height="500">
 <br><br><br><br>
 
 <b>대기열 리스트 버튼을 누르고, 대기열이 적용된 모습을 확인합니다.</b>
 
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/6c1664553082d4e53386b971379b74cc/%EB%8C%80%EA%B8%B0%EC%97%B4_%EB%A6%AC%EC%8A%A4%ED%8A%B8_%ED%99%94%EB%A9%B4.PNG" width="1000" height="500">
+<img src="./.asset/대기열_리스트_화면.PNG" width="1000" height="500">
 <br><br><br><br>
 
 <b>등록된 url을 클릭하여 상세 정보를 확인할 수 있고, 활성/비활성화 및 설정을 변경할 수 있습니다. </b>
 
-<img src="https://lab.ssafy.com/s10-bigdata-recom-sub2/S10P22A706/uploads/1032df0f0fdeb394a00428af18b1c95f/url_%EC%83%81%EC%84%B8_%EC%A0%95%EB%B3%B4_%ED%99%94%EB%A9%B4.PNG" width="1000" height="500">
+<img src="./.asset/url_상세_정보_화면.PNG" width="1000" height="500">
 <br><br><br><br>
 
 <b>대시보드 버튼을 클릭하여 대기열이 적용된 운영자의 컴퓨팅 자원과, 대기열 어플리케이션의 상태를 모니터링할 수 있습니다.</b>
 
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/1ee50c0c60c7a79d49ddb77c37b044b8/%EB%8C%80%EC%89%AC%EB%B3%B4%EB%93%9C_gif.gif" width="800" height="400">
+<img src="./.asset/대쉬보드_gif.gif" width="800" height="400">
 <br>
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/84fbc7a0ea6498a8e96a7d9ceb078e2e/%EC%82%AC%EC%9A%A9%EC%9E%90_%EC%BB%B4%ED%93%A8%ED%8C%85_%EC%9E%90%EC%9B%90_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81_gif.gif" width="800" height="400">
+<img src="./.asset/사용자_컴퓨팅_자원_모니터링_gif.gif" width="800" height="400">
 
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/6754174cfbc880a3eccc0565ca75b2f1/%EB%8C%80%EA%B8%B0%EC%97%B4_%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81_gif.gif" width="800" height="400">
+<img src="./.asset/대기열_애플리케이션_모니터링_gif.gif" width="800" height="400">
 
 <br>
 
 ## Run Screen
 
 - PC Version
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/e149235f5cc637a6bee1ee74592e40f5/pc_%EB%8C%80%EA%B8%B0%EC%97%B4_gif.gif" width="600" height="300">
+<img src="./.asset/pc_대기열_gif.gif" width="600" height="300">
 <br><br><br><br>
 
 - Mobile Version
-<img src="https://lab.ssafy.com/s10-final/S10P31A401/uploads/2dc85a5e78875063699ef98a5e85418f/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EB%8C%80%EA%B8%B0%EC%97%B4_gif.gif" width="400" height="500">
+<img src="./.asset/모바일_대기열_gif.gif" width="400" height="500">
 
 <br>
 
