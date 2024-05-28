@@ -15,11 +15,12 @@ QQueueing은 서버에 직접 설치해서 사용할 수 있는 무료 대기열
 ## Features
 
 - 소스코드 변경 없이 다운로드를 통해 적용 가능한 대기열 기능
-  - [대기열 기능 자세히 보기](https://lab.ssafy.com/s10-final/S10P31A401/-/wikis/features/queueing)
+  - [대기열 기능 자세히 보기](https://github.com/4-EVERY1/QQueueing/wiki/%EB%8C%80%EA%B8%B0%EC%97%B4-%EC%9E%91%EB%8F%99-%EB%B0%A9%EC%8B%9D)
+  - [대기열 적용 원리 자세히 보기](https://github.com/4-EVERY1/QQueueing/wiki/%EB%8C%80%EA%B8%B0%EC%97%B4-%EC%A0%81%EC%9A%A9-%EC%9B%90%EB%A6%AC)
 - 대기열 타깃 url 설정 및 활성/비활성화 기능 제공
 - 타깃 url 별로 대기 및 통과 인원 현황 모니터링 화면 제공
 - 운영자의 컴퓨팅 자원과 대기열 어플리케이션의 모니터링 지표 제공
-  - [모니터링 기능 자세히 보기](https://lab.ssafy.com/s10-final/S10P31A401/-/wikis/features/monitoring)
+  - [모니터링 기능 자세히 보기](https://github.com/4-EVERY1/QQueueing/wiki/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81)
 - 모바일, PC 호환 지원
 
 
